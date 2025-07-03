@@ -5,9 +5,6 @@
 
 <h1 align="center">Frontend Developer | Angular Specialist | Alexandria, Egypt</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omniaa7med&label=Profile%20views&color=0e75b6&style=flat" alt="omniaa7med" />
-</p>
 
 ---
 
